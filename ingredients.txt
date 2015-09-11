@@ -4,4 +4,6 @@
 - cilantro
 - pepper
 - salt
-- spices
+- soy sauce
+- sugar
+- vinegar
